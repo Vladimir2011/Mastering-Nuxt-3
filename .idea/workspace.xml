@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="1-3 Nested Routes">
+    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="1-4 Dynamic Routes">
+      <change afterPath="$PROJECT_DIR$/composables/courseData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composables/useCourse.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/lesson.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Composition API Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -42,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -64,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/composables" />
       <recent name="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]" />
       <recent name="$PROJECT_DIR$/pages/course/chapter/lesson" />
     </key>
@@ -79,7 +84,7 @@
       <workItem from="1693927649570" duration="498000" />
       <workItem from="1693928153003" duration="541000" />
       <workItem from="1693981914886" duration="60000" />
-      <workItem from="1694267117040" duration="3064000" />
+      <workItem from="1694267117040" duration="3754000" />
     </task>
     <task id="LOCAL-00001" summary="1-0 Getting Set Up">
       <option name="closed" value="true" />
@@ -113,17 +118,27 @@
       <option name="project" value="LOCAL" />
       <updated>1694268790426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1-4 Dynamic Routes">
+      <option name="closed" value="true" />
+      <created>1694270194503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694270194503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1-0 Getting Set Up" />
     <MESSAGE value="1-1 File based routing" />
     <MESSAGE value="1-2 Displaying Course Lessons" />
     <MESSAGE value="1-3 Nested Routes" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-3 Nested Routes" />
+    <MESSAGE value="1-4 Dynamic Routes" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-4 Dynamic Routes" />
   </component>
 </project>
