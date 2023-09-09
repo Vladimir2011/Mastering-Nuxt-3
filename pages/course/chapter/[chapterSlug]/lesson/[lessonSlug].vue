@@ -20,11 +20,17 @@
         Download Video
       </a>
     </div>
+    <VideoPlayer
+      v-if="lesson.videoId"
+      :videoId="lesson.videoId"
+    />
     <p>{{ lesson.text }}</p>
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
+import VideoPlayer from "~/components/VideoPlayer.vue";
+
 const course = useCourse()
 const route = useRoute()
 
