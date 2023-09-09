@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="1-1 File based routing">
+    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="1-2 Displaying Course Lessons">
+      <change afterPath="$PROJECT_DIR$/pages/course/lesson.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/course.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course.vue" afterDir="false" />
     </list>
@@ -73,7 +74,7 @@
       <workItem from="1693927649570" duration="498000" />
       <workItem from="1693928153003" duration="541000" />
       <workItem from="1693981914886" duration="60000" />
-      <workItem from="1694267117040" duration="1238000" />
+      <workItem from="1694267117040" duration="1410000" />
     </task>
     <task id="LOCAL-00001" summary="1-0 Getting Set Up">
       <option name="closed" value="true" />
@@ -91,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694267807755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1-2 Displaying Course Lessons">
+      <option name="closed" value="true" />
+      <created>1694268360939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694268360939</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-0 Getting Set Up" />
     <MESSAGE value="1-1 File based routing" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-1 File based routing" />
+    <MESSAGE value="1-2 Displaying Course Lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-2 Displaying Course Lessons" />
   </component>
 </project>
