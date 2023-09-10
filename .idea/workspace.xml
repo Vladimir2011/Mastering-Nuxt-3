@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="1-10 More with NuxtLink">
+    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="1-11 The useHead composable">
+      <change afterPath="$PROJECT_DIR$/components/LessonCompleteButton.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" afterDir="false" />
     </list>
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Composition API Component" />
         <option value="JavaScript File" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
@@ -83,7 +84,7 @@
       <workItem from="1693928153003" duration="541000" />
       <workItem from="1693981914886" duration="60000" />
       <workItem from="1694267117040" duration="6220000" />
-      <workItem from="1694359676991" duration="2125000" />
+      <workItem from="1694359676991" duration="3101000" />
     </task>
     <task id="LOCAL-00001" summary="1-0 Getting Set Up">
       <option name="closed" value="true" />
@@ -173,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694361579524</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1-11 The useHead composable">
+      <option name="closed" value="true" />
+      <created>1694362098740</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694362098740</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +201,7 @@
     <MESSAGE value="1-8 What is Universal Rendering?" />
     <MESSAGE value="1-9 Navigating with NuxtLink" />
     <MESSAGE value="1-10 More with NuxtLink" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-10 More with NuxtLink" />
+    <MESSAGE value="1-11 The useHead composable" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-11 The useHead composable" />
   </component>
 </project>
