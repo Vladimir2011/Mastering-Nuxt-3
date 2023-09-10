@@ -33,8 +33,6 @@
 </template>
 
 <script setup>
-import VideoPlayer from "~/components/VideoPlayer.vue";
-
 const course = useCourse()
 const route = useRoute()
 
@@ -54,9 +52,7 @@ useHead({
   title
 })
 
-const progress = useState('progress', () => {
-  return [];
-});
+const progress = useLocalStorage('progress', [])
 
 const isLessonComplete = computed(() => {
   if (!progress.value[chapter.value.number - 1]) {
