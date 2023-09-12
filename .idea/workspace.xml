@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="3-1 Adding in TypeScript">
+    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="3-2 Handling Client-Side Errors with NuxtErrorBoundary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composables/useCourse.ts" beforeDir="false" afterPath="$PROJECT_DIR$/composables/useCourse.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/course.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" afterDir="false" />
     </list>
@@ -87,7 +86,7 @@
       <workItem from="1694267117040" duration="6220000" />
       <workItem from="1694359676991" duration="7129000" />
       <workItem from="1694410977886" duration="2863000" />
-      <workItem from="1694529662638" duration="2519000" />
+      <workItem from="1694529662638" duration="3114000" />
     </task>
     <task id="LOCAL-00001" summary="1-0 Getting Set Up">
       <option name="closed" value="true" />
@@ -217,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694539014171</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="3-2 Handling Client-Side Errors with NuxtErrorBoundary">
+      <option name="closed" value="true" />
+      <created>1694546187993</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694546187993</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +248,7 @@
     <MESSAGE value="1-13 Save Course Progress with VueUse and the ClientOnly Component" />
     <MESSAGE value="2-3 Understanding Layouts" />
     <MESSAGE value="3-1 Adding in TypeScript" />
-    <option name="LAST_COMMIT_MESSAGE" value="3-1 Adding in TypeScript" />
+    <MESSAGE value="3-2 Handling Client-Side Errors with NuxtErrorBoundary" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-2 Handling Client-Side Errors with NuxtErrorBoundary" />
   </component>
 </project>
