@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="3-4 Handling Server Errors and 404s">
+    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="3-5 Route Validation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error.vue" beforeDir="false" afterPath="$PROJECT_DIR$/error.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,8 @@
       <workItem from="1694267117040" duration="6220000" />
       <workItem from="1694359676991" duration="7129000" />
       <workItem from="1694410977886" duration="2863000" />
-      <workItem from="1694529662638" duration="4739000" />
+      <workItem from="1694529662638" duration="4838000" />
+      <workItem from="1694703065579" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="1-0 Getting Set Up">
       <option name="closed" value="true" />
@@ -240,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694547798611</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="3-5 Route Validation">
+      <option name="closed" value="true" />
+      <created>1694548430072</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1694548430072</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +275,7 @@
     <MESSAGE value="3-2 Handling Client-Side Errors with NuxtErrorBoundary" />
     <MESSAGE value="3-3 Advanced Error Handling" />
     <MESSAGE value="3-4 Handling Server Errors and 404s" />
-    <option name="LAST_COMMIT_MESSAGE" value="3-4 Handling Server Errors and 404s" />
+    <MESSAGE value="3-5 Route Validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-5 Route Validation" />
   </component>
 </project>
