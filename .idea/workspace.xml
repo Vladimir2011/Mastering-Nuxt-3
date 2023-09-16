@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="4-2 Creating a Login Page">
-      <change afterPath="$PROJECT_DIR$/middleware/auth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/history.global.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="4-3 Inline, Named, and Global Route Middleware">
       <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +87,7 @@
       <workItem from="1694410977886" duration="2863000" />
       <workItem from="1694529662638" duration="4838000" />
       <workItem from="1694703065579" duration="2188000" />
-      <workItem from="1694859455285" duration="1490000" />
+      <workItem from="1694859455285" duration="2207000" />
     </task>
     <task id="LOCAL-00001" summary="1-0 Getting Set Up">
       <option name="closed" value="true" />
@@ -270,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694705241148</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="4-3 Inline, Named, and Global Route Middleware">
+      <option name="closed" value="true" />
+      <created>1694861026723</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1694861026723</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +303,7 @@
     <MESSAGE value="3-5 Route Validation" />
     <MESSAGE value="4-1 Route Middleware Basics" />
     <MESSAGE value="4-2 Creating a Login Page" />
-    <option name="LAST_COMMIT_MESSAGE" value="4-2 Creating a Login Page" />
+    <MESSAGE value="4-3 Inline, Named, and Global Route Middleware" />
+    <option name="LAST_COMMIT_MESSAGE" value="4-3 Inline, Named, and Global Route Middleware" />
   </component>
 </project>
