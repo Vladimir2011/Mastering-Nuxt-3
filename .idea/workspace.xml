@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="4-3 Inline, Named, and Global Route Middleware">
-      <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
+    <list default="true" id="bca07fd6-a764-4616-9d59-d4ad672a21e5" name="Changes" comment="4-4 Setting Up Supabase">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <workItem from="1694410977886" duration="2863000" />
       <workItem from="1694529662638" duration="4838000" />
       <workItem from="1694703065579" duration="2188000" />
-      <workItem from="1694859455285" duration="2207000" />
+      <workItem from="1694859455285" duration="3682000" />
     </task>
     <task id="LOCAL-00001" summary="1-0 Getting Set Up">
       <option name="closed" value="true" />
@@ -273,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694861026723</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="4-4 Setting Up Supabase">
+      <option name="closed" value="true" />
+      <created>1694862008859</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1694862008859</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +312,7 @@
     <MESSAGE value="4-1 Route Middleware Basics" />
     <MESSAGE value="4-2 Creating a Login Page" />
     <MESSAGE value="4-3 Inline, Named, and Global Route Middleware" />
-    <option name="LAST_COMMIT_MESSAGE" value="4-3 Inline, Named, and Global Route Middleware" />
+    <MESSAGE value="4-4 Setting Up Supabase" />
+    <option name="LAST_COMMIT_MESSAGE" value="4-4 Setting Up Supabase" />
   </component>
 </project>
